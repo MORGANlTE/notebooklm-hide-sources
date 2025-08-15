@@ -11,6 +11,18 @@ Note: this readme is AI generated 💀
 - Remembers your preference across page reloads.
 - Does not interfere with other NotebookLM features.
 
+## Screenshots
+
+**This plugin adds new button in the menu:**
+
+![Toggle Button](readme/newly-added-button.png)
+
+**You can toggle between states with the click of this button:**
+
+![Before Toggle](readme/source-hidden-disabled.png)
+
+![After Toggle](readme/source-hidden-enabled.png)
+
 ## Installation
 
 1. Clone or download this repository.
