@@ -1,0 +1,11 @@
+/* This class will be added to the source spans to hide them */
+.nblm-source-hidden {
+    display: none !important;
+}
+
+#source-toggle-button{
+    height:32px;
+    background: #131314;
+    color: #ffffff;
+    border: #746e6e 1px solid;
+}
